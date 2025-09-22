@@ -185,7 +185,7 @@
   gap: 2rem;
   padding-bottom: 1rem;
   position: sticky;
-  top: 1px;
+  bottom: 75px;
   left: 0;
 }
 
@@ -244,8 +244,8 @@
   height: 400px;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
+  justify-content: center;
+  align-items: flex-start;
   border-radius: 16px;
 }
 
@@ -256,8 +256,8 @@
   height: auto;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
+  justify-content: center;
+  align-items: flex-start;
   gap: 2rem;
   position: sticky;
   top: 0;
@@ -745,7 +745,7 @@
   align-items: center;
   column-gap: 0.5rem;
   border-radius: 100rem;
-  background-color: #d5d5d523;
+  background-color: #d5d5d530;
 }
 
 .subscription-form input {
@@ -761,6 +761,17 @@
   font-size: 1.25rem;
   font-weight: 500;
   color: #d5d5d530;
+}
+
+.sub-icon-container,
+.sub-icon-container img {
+  width: 24px;
+  height: 24px;
+  border-radius: 100rem;
+}
+
+.sub-icon-container img {
+  background-color: #d5d5d523;
 }
 
 /* Footer Section Styling */
