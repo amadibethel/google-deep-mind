@@ -52,7 +52,7 @@
 }
 
 .logo-left-nav-container h4 {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
   font-weight: 300;
   color: #fff;
   padding: 0.125rem;
@@ -215,7 +215,7 @@
 }
 
 .sub-heading-container h3 {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: 700;
   padding: 0.125rem;
   color: #fff;
@@ -286,7 +286,7 @@
 }
 
 .right-heading-container h3 {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: 700;
   color: #fff;
   padding: 0.125rem;
@@ -335,7 +335,7 @@
 }
 
 .second-section-heading h3 {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: 700;
   padding: 0.125rem;
   color: #fff;
@@ -433,7 +433,7 @@
 }
 
 .primary-container h2 {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
   font-weight: 700;
   color: #fff;
   padding: 0.125rem;
@@ -510,7 +510,7 @@
 }
 
 .third-section-heading-container h3 {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-family: 700;
   color: #fff;
 }
@@ -664,13 +664,13 @@
 }
 
 .fifth-section-container h4 {
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 500;
   color: #fff;
 }
 
 .fifth-section-container h3 {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: 700;
   color: #fff;
 }
@@ -758,8 +758,8 @@
   align-items: center;
   background-color: transparent;
   border: none;
-  font-size: 1rem;
-  font-weight: 500;
+  font-size: 0.85rem;
+  font-weight: 300;
   color: #d5d5d530;
 }
 
@@ -771,7 +771,7 @@
 }
 
 .sub-icon-container img {
-  background-color: #d5d5d523;
+  background-color: #d5d5d530;
 }
 
 /* Footer Section Styling */
