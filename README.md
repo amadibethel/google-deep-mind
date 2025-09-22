@@ -25,7 +25,7 @@ Google DeepMind is an artificial intelligence (AI) research company and laborato
 
 ## Resources
 
-- [Official Website](https://deepmind.com/)  
+- [Official Website](https://www.google.deepmind.com/)  
 - [Research Publications](https://deepmind.com/research)  
 - [YouTube Channel](https://www.youtube.com/@DeepMind)  
 
