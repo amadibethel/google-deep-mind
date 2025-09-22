@@ -73,7 +73,7 @@
 }
 
 .logo-right-nav-container p {
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: 400;
   color: #d5d5d599;
   padding: 0.125rem;
@@ -104,7 +104,7 @@
 }
 
 .build-container p {
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: 400;
   color: #d5d5d598;
   padding: 0.125rem;
@@ -125,7 +125,7 @@
 }
 
 .try-container p {
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: 400;
   color: #d5d5d598;
   padding: 0.125rem;
@@ -152,7 +152,7 @@
 /* Hero Section Styling */
 
 .hero-section {
-  width: 85%;
+  width: 95%;
   height: auto;
   margin: 2rem auto;
   padding: 2rem 5rem;
@@ -185,7 +185,7 @@
   gap: 2rem;
   padding-bottom: 1rem;
   position: sticky;
-  bottom: 75px;
+  bottom: 60px;
   left: 0;
 }
 
@@ -215,7 +215,7 @@
 }
 
 .sub-heading-container h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   padding: 0.125rem;
   color: #fff;
@@ -232,7 +232,7 @@
 }
 
 .sub-minor-heading-container p {
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: 400;
   padding: 0.125rem;
   color: #d5d5d599;
@@ -264,7 +264,7 @@
 }
 
 .right-hero-sub-container {
-  width: 100%;
+  width: 85%;
   height: auto;
   display: flex;
   flex-direction: row;
@@ -286,7 +286,7 @@
 }
 
 .right-heading-container h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: #fff;
   padding: 0.125rem;
@@ -335,14 +335,14 @@
 }
 
 .second-section-heading h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   padding: 0.125rem;
   color: #fff;
 }
 
 .second-section-heading p {
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: 400;
   padding: 0.125rem;
   color: #d5d5d599;
@@ -433,7 +433,7 @@
 }
 
 .primary-container h2 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 700;
   color: #fff;
   padding: 0.125rem;
@@ -441,7 +441,7 @@
 
 .secondary-container p,
 .card-container p {
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: 500;
   color: #d5d5d599;
   padding: 0.125rem;
@@ -510,7 +510,7 @@
 }
 
 .third-section-heading-container h3 {
-  font-size: 1.38rem;
+  font-size: 1.5rem;
   font-family: 700;
   color: #fff;
 }
@@ -586,7 +586,7 @@
 }
 
 .social-media-container p {
-  font-size: 1.3rem;
+  font-size: 0.75rem;
   font-weight: 500;
   color: #fff;
   padding: 0.125rem;
@@ -664,19 +664,19 @@
 }
 
 .fifth-section-container h4 {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   font-weight: 500;
   color: #fff;
 }
 
 .fifth-section-container h3 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: #fff;
 }
 
 .fifth-section-container p {
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: 400;
   color: #d5d5d599;
 }
@@ -723,13 +723,13 @@
 }
 
 .left-of-right-sub-heading-container .sign-up {
-  font-size: 1rem;
+  font-size: 0.875rem;
   font-weight: 400;
   color: #d5d5d599;
 }
 
 .left-of-right-sub-heading-container .google-privacy {
-  font-size: 1rem;
+  font-size: 0.65rem;
   font-weight: 400;
   color: #d5d5d599;
 }
@@ -758,7 +758,7 @@
   align-items: center;
   background-color: transparent;
   border: none;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 500;
   color: #d5d5d530;
 }
@@ -801,14 +801,14 @@
 }
 
 .google-footer h2 {
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-weight: 500;
   color: #d5d5d599;
   padding: 0.125rem;
 }
 
 .google-footer h3 {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
   font-weight: 500;
   color: #d5d5d599;
   padding: 0.125rem;
