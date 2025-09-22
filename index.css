@@ -73,7 +73,7 @@
 }
 
 .logo-right-nav-container p {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   font-weight: 400;
   color: #d5d5d599;
   padding: 0.125rem;
@@ -104,7 +104,7 @@
 }
 
 .build-container p {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   font-weight: 400;
   color: #d5d5d598;
   padding: 0.125rem;
@@ -336,7 +336,7 @@
 
 .second-section-heading h3 {
   font-size: 1.125rem;
-  font-weight: 700;
+  font-weight: 400;
   padding: 0.125rem;
   color: #fff;
 }
