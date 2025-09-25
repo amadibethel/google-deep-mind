@@ -1,9 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Libre+Bodoni:ital,wght@0,400..700;1,400..700&family=Noto+Serif+Old+Uyghur&family=Play:wght@400;700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&amp;family=Product+Sans&amp;family=Google+Sans+Display:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap");
+/* Global Reset and Base Styles */
 
 * {
   margin: 0;
   padding: 0;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Google Sans Flex", sans-serif;
   letter-spacing: normal;
   line-height: normal;
   background-color: #000;
@@ -1145,5 +1146,89 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #000;
+    --secondary-color: #d5d5d599;
+    --tertiary-color: #d5d5d530;
+    --quaternary-color: #d5d5d523;
+    --font-color: #fff;
+    --font-family: "DM Sans", sans-serif;
+    --border-radius: 8px;
+    --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease-in-out;
+    --max-width: 1200px;
+    --min-width: 320px;
+    --padding: 1rem;
+    --margin: 1rem;
+    --gap: 1rem;
+    --z-index: 10;
+    --border: 0.125px solid #d5d5d530;
+    --border-radius-large: 16px;
+    --border-radius-full: 100rem;
+    --box-shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+    --box-shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1);
+    --box-shadow-2xl: 0 25px 50px rgba(0, 0, 0, 0.25);
+    --box-shadow-inner: inset 0 2px 4px rgba(0, 0, 0, 0.06);
+    --box-shadow-outline: 0 0 0 3px rgba(66, 153, 225, 0.5);
+    --box-shadow-none: none;
+    --opacity-0: 0;
+    --opacity-25: 0.25;
+    --opacity-50: 0.5;
+    --opacity-75: 0.75;
+    --opacity-100: 1;
+    --z-index-0: 0;
+    --z-index-10: 10;
+    --z-index-20: 20;
+    --z-index-30: 30;
+    --z-index-40: 40;
+    --z-index-50: 50;
+    --z-index-100: 100;
+    --z-index-200: 200;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --primary-color: #fff;
+    --secondary-color: #333;
+    --tertiary-color: #33333330;
+    --quaternary-color: #33333323;
+    --font-color: #000;
+    --font-family: "DM Sans", sans-serif;
+    --border-radius: 8px;
+    --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease-in-out;
+    --max-width: 1200px;
+    --min-width: 320px;
+    --padding: 1rem;
+    --margin: 1rem;
+    --gap: 1rem;
+    --z-index: 10;
+    --border: 0.125px solid #33333330;
+    --border-radius-large: 16px;
+    --border-radius-full: 100rem;
+    --box-shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+    --box-shadow-xl: 0 20px 25px rgba(0, 0, 0.1);
+    --box-shadow-2xl: 0 25px 50px rgba(0, 0, 0, 0.25);
+    --box-shadow-inner: inset 0 2px 4px rgba(0, 0, 0, 0.06);
+    --box-shadow-outline: 0 0 0 3px rgba(66, 153, 225, 0.5);
+    --box-shadow-none: none;
+    --opacity-0: 0;
+    --opacity-25: 0.25;
+    --opacity-50: 0.5;
+    --opacity-75: 0.75;
+    --opacity-100: 1;
+    --z-index-0: 0;
+    --z-index-10: 10;
+    --z-index-20: 20;
+    --z-index-30: 30;
+    --z-index-40: 40;
+    --z-index-50: 50;
+    --z-index-100: 100;
+    --z-index-200: 200;
   }
 }
